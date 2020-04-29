@@ -1,9 +1,8 @@
-Año 2;
-Notas;Materias
-9.5;Mat 1
-7;Mat 2
-6.7;Mat 3
-8;Mat 4
-8.6;Mat 5
-8;Mat 6
-9;Mat 7
+Nota,Materia
+9.5,Mat 1
+7,Mat 2
+6.7,Mat 3
+8,Mat 4
+8.6,Mat 5
+8,Mat 6
+9,Mat 7
